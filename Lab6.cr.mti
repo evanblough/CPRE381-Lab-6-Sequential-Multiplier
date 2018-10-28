@@ -1,0 +1,68 @@
+{C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/Multiplicand.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/Multiplicand.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Multiplicand
+-- Compiling architecture Structure of Multiplicand
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/full_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/full_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture dataflow of full_adder
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/Multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/Multiplier.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Multiplier
+-- Compiling architecture Structure of Multiplier
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/64 bit 2-1 Mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/64 bit 2-1 Mux.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity b64_2to1_mux
+-- Compiling architecture dataflow of b64_2to1_mux
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/N_Bit_Adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/N_Bit_Adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity N_bit_Adder
+-- Compiling architecture dataflow of N_bit_Adder
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/dff.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/dff.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture mixed of dff
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/N_Bit_Register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/N_Bit_Register.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity N_Bit_Register
+-- Compiling architecture dataflow of N_Bit_Register
+
+} {} {}} {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/Lab5a.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Google Drive/Iowa State/Fall 2018/Assembly 381/Labs/Lab 6/Lab5a.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Lab5a
+-- Compiling architecture bdf_type of Lab5a
+
+} {} {}}
